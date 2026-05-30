@@ -1,3 +1,11 @@
+# 👨‍💻 Author
+
+# Raju Naik
+
+Senior Data & AI Engineer working at one of the world’s largest FMCG companies — PepsiCo.
+
+---
+
 # 🚀 Uber Enterprise Agentic AI Platform
 
 ## 📌 Overview
@@ -401,13 +409,5 @@ This project is a Proof of Concept (POC) created for:
 * enterprise AI engineering demonstrations
 
 The datasets used are synthetic and do not contain real Uber production data.
-
----
-
-# 👨‍💻 Author
-
-**Raju Naik**
-
-Senior Data Engineer | Enterprise AI & Data Engineering Enthusiast
 
 ---
